@@ -18,11 +18,11 @@ I'm a passionate web developer with over several years of experience in building
 
 ## 🛠️ Technical Skills
 
-**Languages:** JavaScript, Dart, Python, PHP  
+**Languages:** JavaScript, PHP  
 **Frontend:** React, Vue.js, HTML, CSS  
 **Backend:** Node.js, Express, Laravel  
 **Databases:** MySQL, PostgreSQL, MongoDB  
-**DevOps:** Docker, Kubernetes, Jenkins, AWS, GCP  
+**DevOps:** Github Actions, Docker, AWS, GCP  
 **Other:** RESTful APIs, GraphQL, CI/CD, Microservices Architecture  
 
 ## 💼 Projects
